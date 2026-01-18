@@ -2,5 +2,5 @@ Name: Onuegbu Udochukwu
 Matric Number: 22CG031937
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Joblib
-Live URL of the hosted application: [INSERT_YOUR_RENDER_URL_HERE]
+Live URL of the hosted application: https://winecultivar-project-onuegbuudochukwu.onrender.com
 GitHub repository link: https://github.com/OnuegbuUdochukwu/WineCultivar_Project_OnuegbuUdochukwu_22CG031937.git
