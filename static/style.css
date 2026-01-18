@@ -94,7 +94,7 @@ input {
 input:focus {
     outline: none;
     border-color: var(--primary-color);
-    box_shadow: 0 0 0 3px rgba(114, 47, 55, 0.1);
+    box-shadow: 0 0 0 3px rgba(114, 47, 55, 0.1);
 }
 
 .submit-btn {
